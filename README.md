@@ -2,8 +2,6 @@
 
 # API
 Cliente
-Garçon (pedidos, levar seus pedidos, para a cozinha)
-Cozinha (Server)
 
 Acronimo de Aplication Programming Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, pra que outras aplicações possam utilizar as funcionalidades desta aplicação.
 
@@ -11,8 +9,7 @@ Acronimo de Aplication Programming Interface (Interface de Programação de Apli
 - Meio de campo entre as tecnologias.
 - Intermediador para troca de informações.
 
-# REST
-
+# REST  
 um acrônimo para REpresentational State Transfer (
 Transferência de Estado Representativo).
 
